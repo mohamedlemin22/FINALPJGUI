@@ -1,0 +1,40 @@
+What does CPU stand for?,Central Processing Unit
+What is the time complexity of binary search?,O(log n)
+What data structure uses LIFO (Last In, First Out) principle?,Stack
+Which language is primarily used for web development and runs in the browser?,JavaScript
+What is the main purpose of RAM in a computer?,Temporary data storage
+Which sorting algorithm has the best average-case time complexity?,Merge Sort
+What is the name of the protocol used to transfer web pages over the Internet?,HTTP
+What does SQL stand for?,Structured Query Language
+What is the base of the binary number system?,2
+Who is known as the father of computer science?,Alan Turing
+What is the term for a self-replicating program that spreads to other computers?,Virus
+What is the method of finding errors in software code called?,Debugging
+What does IDE stand for in programming?,Integrated Development Environment
+Which data structure is used to implement FIFO (First In, First Out) principle?,Queue
+What is the name of the first electronic general-purpose computer?,ENIAC
+What is the primary function of an operating system?,Manage hardware and software resources
+What programming language is known for its use in artificial intelligence and machine learning?,Python
+What is a loop that never ends called?,Infinite loop
+What does XML stand for?,eXtensible Markup Language
+What is the term for hiding the internal details and showing only functionality?,Abstraction
+Which sorting algorithm is generally the fastest for large datasets?,Quick Sort
+What is the smallest unit of data in a computer?,Bit
+What is the term for a network that covers a small geographic area like an office?,LAN
+What is the main component of a computer that executes instructions?,Processor
+What does GUI stand for?,Graphical User Interface
+What is the name of the language that is directly understood by the computer's CPU?,Machine Language
+What is a named location in memory that stores a value called in programming?,Variable
+What is the main purpose of a firewall in network security?,Prevent unauthorized access
+Which language is primarily used for statistical computing and graphics?,R
+What does API stand for?,Application Programming Interface
+What is the output of 10 mod 3 in programming?,1
+What does HTTP stand for?,HyperText Transfer Protocol
+What is the primary function of DNS in networking?,Translate domain names to IP addresses
+What is the key characteristic of object-oriented programming?,Use of objects and classes
+What is the method called when a function calls itself?,Recursion
+What is the term for software that is freely available and can be modified by anyone?,Open Source
+What is the default port number for HTTP?,80
+What does SSD stand for in computer hardware?,Solid State Drive
+What is the name of the virtual machine that runs Java bytecode?,Java Virtual Machine
+What is the process of converting source code into machine code called?,Compilation
